@@ -1,0 +1,18 @@
+Selectors:
+=>its group of properties named block.
+=>selectors are used to defining styles for html elements.
+  input tag => text elements
+  a tag =>hyperlink
+=>we can define selectors either internal or external scope
+  Syn:       selectors{
+                 prop:val;
+                 prop:val;
+                 .........
+                }
+Types:     *                    #   .    space  >            []        ,
+     Universal selectors,tag,id,class,child,direct child,attribute,group
+     pseudo classes, pseudo elements
+           :             : :
+
+Universal Selectors:
+=>used to defined/to apply common styles for elements
