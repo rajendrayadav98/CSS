@@ -1,0 +1,26 @@
+.c{
+    height: 100px;
+    width: 30%;
+    text-align: center;
+    color: white;
+    background-color: rgb(60, 112, 60);
+}
+.c1{
+    height: 25px;
+    width: 50%;
+    text-align: center;
+    color: white;
+    background-color: orangered;
+    margin-left: 35%;
+    padding: 10px;
+
+}
+.c2{
+    margin: 15px;
+    padding: 10px;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: rgb(57, 37, 57);
+}
