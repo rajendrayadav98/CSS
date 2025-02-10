@@ -1,0 +1,53 @@
+body{
+    background: #111;
+}
+.header{
+    background: #222;
+    margin-bottom: 40px;
+    padding: 15px 15px;
+}
+.header img{
+    width: 160px;
+    height: 70px;
+}
+.slogan{
+    text-align: center;
+    color: #fff;
+    margin-bottom: 40px;
+}
+.slogan div{
+    color: #fff;
+    font-size: 250%;
+    font-family: 'Trebuchet MS';
+}
+.slogan p{
+    color: #eee;
+    font-size: 125%;
+}
+.main-card-holder{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+}
+.footer{
+    background: #222;
+    color: #fff;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+
+}
+/* grid box */
+.gridbox{
+   display: flex;
+    /* grid-template-columns: 300px 300px 300px 300px;
+     grid-template-columns:  20% 20% 20% 20%;  */
+     grid-template-columns: auto auto auto auto;
+     grid-template-rows: auto auto auto auto;
+   width: 90%;
+   margin: auto;
+   column-gap: 10px;
+}
+.gridbox section{
+    /* background: papayawhip; */
+}
